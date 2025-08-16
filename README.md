@@ -19,8 +19,8 @@ utilizando injeção de dependência e arquitetura em camadas para manter o proj
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/renan-arth/Desafios.git
-   cd Desafios
+   git clone https://github.com/seu-repositorio/authentication.git
+   cd authentication
    ```
 
 2. - Compile e execute o projeto com o .NET CLI:
